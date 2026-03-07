@@ -1,0 +1,66 @@
+1. Data Collection
+
+The dataset is loaded using Pandas and inspected to understand its structure.
+
+
+2. Data Exploration (EDA)
+
+Exploratory Data Analysis is performed to understand data distribution and relationships between features.
+
+Steps include:
+
+Checking dataset shape
+
+Checking missing values
+
+Visualizing fraud vs normal transactions
+
+Creating correlation heatmap
+
+
+3. Data Preprocessing
+
+The dataset is prepared for machine learning by:
+
+Separating features and target variable
+
+Converting data into NumPy arrays
+
+4. Handling Imbalanced Data
+
+Since fraud transactions are very rare, techniques like sampling or anomaly detection may be applied.
+
+
+5. Model Training
+
+Machine learning algorithms are trained using the training dataset.
+
+Common models used:
+
+Logistic Regression
+
+Random Forest
+
+Decision Tree
+
+
+6. Model Evaluation
+
+The trained model is evaluated using testing data.
+
+Evaluation metrics include:
+
+Accuracy
+
+Precision
+
+Recall
+
+F1 Score
+
+Confusion Matrix
+
+These metrics help determine how well the model detects fraudulent transactions.
+
+Splitting dataset into training and testing sets
+
