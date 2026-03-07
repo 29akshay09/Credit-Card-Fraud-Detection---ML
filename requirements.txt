@@ -1,0 +1,23 @@
+Technologies Used
+
+Programming Language:
+
+Python
+
+Libraries:
+
+NumPy
+
+Pandas
+
+Matplotlib
+
+Seaborn
+
+Scikit-learn
+
+Tools:
+
+Jupyter Notebook
+
+Python Virtual Environment
